@@ -1,4 +1,4 @@
-This repository reports on our research into business process modelling for blind and low-vision users. It contains data from interviews and the results of an analysis of the data using a Grounded Theory approach. 
+This repository reports on our research into business process modelling for blind and low-vision users. It contains data from interviews with staff at German educational institutions and the results of an analysis of the data using a Grounded Theory approach. 
 
 # Structure of the repository 
 
